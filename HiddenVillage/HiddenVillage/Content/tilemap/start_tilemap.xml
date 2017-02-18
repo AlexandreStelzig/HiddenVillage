@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:ns="Microsoft.Xna.Framework">
+	 <Asset Type="HiddenVillage.Data.TileObject[]">
+	 	<Item><row>0</row><column>0</column><tileid>WALL</tileid><tileStatusId>SOLID</tileStatusId></Item>
+	 	<Item><row>0</row><column>1</column><tileid>WALL</tileid><tileStatusId>SOLID</tileStatusId></Item>
+	 	<Item><row>0</row><column>2</column><tileid>WALL</tileid><tileStatusId>SOLID</tileStatusId></Item>
+	 	<Item><row>0</row><column>3</column><tileid>WALL</tileid><tileStatusId>SOLID</tileStatusId></Item>
+	 	<Item><row>0</row><column>4</column><tileid>WALL</tileid><tileStatusId>SOLID</tileStatusId></Item>
+	 	<Item><row>0</row><column>5</column><tileid>WALL</tileid><tileStatusId>SOLID</tileStatusId></Item>
+	 	<Item><row>0</row><column>6</column><tileid>WALL</tileid><tileStatusId>SOLID</tileStatusId></Item>
+	 	<Item><row>0</row><column>7</column><tileid>WALL</tileid><tileStatusId>SOLID</tileStatusId></Item>
+
+		<Item><row>1</row><column>0</column><tileid>WALL</tileid><tileStatusId>SOLID</tileStatusId></Item>
+	 	<Item><row>1</row><column>1</column><tileid>GRASS</tileid><tileStatusId>EMPTY</tileStatusId></Item>
+	 	<Item><row>1</row><column>2</column><tileid>GRASS</tileid><tileStatusId>EMPTY</tileStatusId></Item>
+	 	<Item><row>1</row><column>3</column><tileid>GRASS</tileid><tileStatusId>EMPTY</tileStatusId></Item>
+	 	<Item><row>1</row><column>4</column><tileid>GRASS</tileid><tileStatusId>EMPTY</tileStatusId></Item>
+	 	<Item><row>1</row><column>5</column><tileid>GRASS</tileid><tileStatusId>EMPTY</tileStatusId></Item>
+	 	<Item><row>1</row><column>6</column><tileid>GRASS</tileid><tileStatusId>EMPTY</tileStatusId></Item>
+	 	<Item><row>1</row><column>7</column><tileid>WALL</tileid><tileStatusId>SOLID</tileStatusId></Item>
+
+	 	<Item><row>2</row><column>0</column><tileid>WALL</tileid><tileStatusId>SOLID</tileStatusId></Item>
+	 	<Item><row>2</row><column>1</column><tileid>GRASS</tileid><tileStatusId>EMPTY</tileStatusId></Item>
+	 	<Item><row>2</row><column>2</column><tileid>GRASS</tileid><tileStatusId>EMPTY</tileStatusId></Item>
+	 	<Item><row>2</row><column>3</column><tileid>GRASS</tileid><tileStatusId>EMPTY</tileStatusId></Item>
+	 	<Item><row>2</row><column>4</column><tileid>GRASS</tileid><tileStatusId>EMPTY</tileStatusId></Item>
+	 	<Item><row>2</row><column>5</column><tileid>GRASS</tileid><tileStatusId>EMPTY</tileStatusId></Item>
+	 	<Item><row>2</row><column>6</column><tileid>GRASS</tileid><tileStatusId>EMPTY</tileStatusId></Item>
+	 	<Item><row>2</row><column>7</column><tileid>WALL</tileid><tileStatusId>SOLID</tileStatusId></Item>
+
+	 	<Item><row>3</row><column>0</column><tileid>GRASS</tileid><tileStatusId>SOLID</tileStatusId></Item>
+	 	<Item><row>3</row><column>1</column><tileid>WALL</tileid><tileStatusId>EMPTY</tileStatusId></Item>
+	 	<Item><row>3</row><column>2</column><tileid>GRASS</tileid><tileStatusId>EMPTY</tileStatusId></Item>
+	 	<Item><row>3</row><column>3</column><tileid>GRASS</tileid><tileStatusId>EMPTY</tileStatusId></Item>
+	 	<Item><row>3</row><column>4</column><tileid>GRASS</tileid><tileStatusId>EMPTY</tileStatusId></Item>
+	 	<Item><row>3</row><column>5</column><tileid>GRASS</tileid><tileStatusId>EMPTY</tileStatusId></Item>
+	 	<Item><row>3</row><column>6</column><tileid>GRASS</tileid><tileStatusId>EMPTY</tileStatusId></Item>
+	 	<Item><row>3</row><column>7</column><tileid>WALL</tileid><tileStatusId>SOLID</tileStatusId></Item>
+
+	 	<Item><row>4</row><column>0</column><tileid>WALL</tileid><tileStatusId>SOLID</tileStatusId></Item>
+	 	<Item><row>4</row><column>1</column><tileid>WALL</tileid><tileStatusId>SOLID</tileStatusId></Item>
+	 	<Item><row>4</row><column>2</column><tileid>WALL</tileid><tileStatusId>SOLID</tileStatusId></Item>
+	 	<Item><row>4</row><column>3</column><tileid>WALL</tileid><tileStatusId>SOLID</tileStatusId></Item>
+	 	<Item><row>4</row><column>4</column><tileid>WALL</tileid><tileStatusId>SOLID</tileStatusId></Item>
+	 	<Item><row>4</row><column>5</column><tileid>WALL</tileid><tileStatusId>SOLID</tileStatusId></Item>
+	 	<Item><row>4</row><column>6</column><tileid>WALL</tileid><tileStatusId>SOLID</tileStatusId></Item>
+	 	<Item><row>4</row><column>7</column><tileid>WALL</tileid><tileStatusId>SOLID</tileStatusId></Item>
+<!-- 
+	 	<Item><row>5</row><column>0</column><tileid>1</tileid></Item>
+	 	<Item><row>5</row><column>1</column><tileid>0</tileid></Item>
+	 	<Item><row>5</row><column>2</column><tileid>0</tileid></Item>
+	 	<Item><row>5</row><column>3</column><tileid>0</tileid></Item>
+	 	<Item><row>5</row><column>4</column><tileid>0</tileid></Item>
+	 	<Item><row>5</row><column>5</column><tileid>0</tileid></Item>
+	 	<Item><row>5</row><column>6</column><tileid>0</tileid></Item>
+	 	<Item><row>5</row><column>7</column><tileid>1</tileid></Item>
+
+	 	<Item><row>6</row><column>0</column><tileid>0</tileid></Item>
+	 	<Item><row>6</row><column>1</column><tileid>0</tileid></Item>
+	 	<Item><row>6</row><column>2</column><tileid>0</tileid></Item>
+	 	<Item><row>6</row><column>3</column><tileid>0</tileid></Item>
+	 	<Item><row>6</row><column>4</column><tileid>0</tileid></Item>
+	 	<Item><row>6</row><column>5</column><tileid>0</tileid></Item>
+	 	<Item><row>6</row><column>6</column><tileid>0</tileid></Item>
+	 	<Item><row>6</row><column>7</column><tileid>1</tileid></Item>
+
+	 	<Item><row>7</row><column>0</column><tileid>1</tileid></Item>
+	 	<Item><row>7</row><column>1</column><tileid>0</tileid></Item>
+	 	<Item><row>7</row><column>2</column><tileid>0</tileid></Item>
+	 	<Item><row>7</row><column>3</column><tileid>0</tileid></Item>
+	 	<Item><row>7</row><column>4</column><tileid>0</tileid></Item>
+	 	<Item><row>7</row><column>5</column><tileid>0</tileid></Item>
+	 	<Item><row>7</row><column>6</column><tileid>0</tileid></Item>
+	 	<Item><row>7</row><column>7</column><tileid>1</tileid></Item>
+
+	 	<Item><row>8</row><column>0</column><tileid>1</tileid></Item>
+	 	<Item><row>8</row><column>1</column><tileid>0</tileid></Item>
+	 	<Item><row>8</row><column>2</column><tileid>0</tileid></Item>
+	 	<Item><row>8</row><column>3</column><tileid>0</tileid></Item>
+	 	<Item><row>8</row><column>4</column><tileid>0</tileid></Item>
+	 	<Item><row>8</row><column>5</column><tileid>0</tileid></Item>
+	 	<Item><row>8</row><column>6</column><tileid>0</tileid></Item>
+	 	<Item><row>8</row><column>7</column><tileid>1</tileid></Item>
+
+	 	<Item><row>9</row><column>0</column><tileid>1</tileid></Item>
+	 	<Item><row>9</row><column>1</column><tileid>1</tileid></Item>
+	 	<Item><row>9</row><column>2</column><tileid>1</tileid></Item>
+	 	<Item><row>9</row><column>3</column><tileid>1</tileid></Item>
+	 	<Item><row>9</row><column>4</column><tileid>1</tileid></Item>
+	 	<Item><row>9</row><column>5</column><tileid>1</tileid></Item>
+	 	<Item><row>9</row><column>6</column><tileid>1</tileid></Item>
+	 	<Item><row>9</row><column>7</column><tileid>1</tileid></Item>
+
+	 	<Item><row>10</row><column>0</column><tileid>1</tileid></Item>
+	 	<Item><row>10</row><column>1</column><tileid>1</tileid></Item>
+	 	<Item><row>10</row><column>2</column><tileid>1</tileid></Item>
+	 	<Item><row>10</row><column>3</column><tileid>1</tileid></Item>
+	 	<Item><row>10</row><column>4</column><tileid>1</tileid></Item>
+	 	<Item><row>10</row><column>5</column><tileid>1</tileid></Item>
+	 	<Item><row>10</row><column>6</column><tileid>1</tileid></Item>
+	 	<Item><row>10</row><column>7</column><tileid>1</tileid></Item> -->
+
+	</Asset>
+</XnaContent>
