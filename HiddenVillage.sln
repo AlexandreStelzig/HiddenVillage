@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiddenVillage", "HiddenVillage\HiddenVillage.csproj", "{DA22DE92-1B49-4DBC-B524-372969CD1B29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiddenVillage.Data", "HiddenVillage.Data\HiddenVillage.Data.csproj", "{7997499F-5EA9-4B43-8911-5E291EBB90E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA22DE92-1B49-4DBC-B524-372969CD1B29}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{DA22DE92-1B49-4DBC-B524-372969CD1B29}.Debug|x86.ActiveCfg = Debug|x86
+		{DA22DE92-1B49-4DBC-B524-372969CD1B29}.Debug|x86.Build.0 = Debug|x86
+		{DA22DE92-1B49-4DBC-B524-372969CD1B29}.Release|Any CPU.ActiveCfg = Release|x86
+		{DA22DE92-1B49-4DBC-B524-372969CD1B29}.Release|x86.ActiveCfg = Release|x86
+		{DA22DE92-1B49-4DBC-B524-372969CD1B29}.Release|x86.Build.0 = Release|x86
+		{7997499F-5EA9-4B43-8911-5E291EBB90E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7997499F-5EA9-4B43-8911-5E291EBB90E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7997499F-5EA9-4B43-8911-5E291EBB90E4}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7997499F-5EA9-4B43-8911-5E291EBB90E4}.Debug|x86.Build.0 = Debug|Any CPU
+		{7997499F-5EA9-4B43-8911-5E291EBB90E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7997499F-5EA9-4B43-8911-5E291EBB90E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7997499F-5EA9-4B43-8911-5E291EBB90E4}.Release|x86.ActiveCfg = Release|Any CPU
+		{7997499F-5EA9-4B43-8911-5E291EBB90E4}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

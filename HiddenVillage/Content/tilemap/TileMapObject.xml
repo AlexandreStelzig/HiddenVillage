@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:ns="Microsoft.Xna.Framework">
+	 <Asset Type="HiddenVillage.Data.TileObject[]">
+	 	<Item><row>0</row><column>0</column></Item>
+	 	<Item><row>0</row><column>1</column></Item>
+	 	<Item><row>0</row><column>2</column></Item>
+	</Asset>
+</XnaContent>
